@@ -1,7 +1,7 @@
 Github assignment - Case Study 1
 Git workflow assigment-case study 1
-
+<<<<<<< HEAD
 This is f1 commit
-
+=======
 This is f2 commit
-
+>>>>>>> f2
